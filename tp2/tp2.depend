@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570219648 source:c:\users\tuki\desktop\tp2\empleados.c
+	"empleados.h"
+
+1570219634 c:\users\tuki\desktop\tp2\empleados.h
+	<stdio.h>
+	<string.h>
+
+1570219899 source:c:\users\tuki\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+
